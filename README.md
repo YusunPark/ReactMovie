@@ -1,3 +1,4 @@
 # Movie App
 
-React JS
+- React JS
+- 2021-06-23 ~ 
